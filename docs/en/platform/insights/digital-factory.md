@@ -2,7 +2,7 @@
 search: true
 ---
 
-### Digital Factory
+### Digital Factory 01
 
 The Digital Factory allows you to monitor statistics related to the creation, editing, and publishing of content and other elements in your digital channels. You can use the filters in the upper right to visualize different aspects of the data.
 
